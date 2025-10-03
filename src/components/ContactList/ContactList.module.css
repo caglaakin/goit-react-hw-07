@@ -1,0 +1,22 @@
+.listContainer{
+    margin: 10px;
+}
+
+.listContainer h2{
+    text-align: center;
+}
+
+.contactList{
+    list-style-type: none;
+    padding: 0;
+}
+
+.contactListItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.noContacts{
+    text-align: center;
+}

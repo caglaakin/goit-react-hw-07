@@ -1,0 +1,25 @@
+.contact {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contactInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.contactInfo p {
+    margin: 5px;
+}
+
+.contactButton {
+    background-color: burlywood;
+    border: none;
+}
+
+.contactButton:hover{
+    background-color: chocolate;
+    color: white;
+}
